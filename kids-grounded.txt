@@ -1,1 +1,10 @@
-
+# Beautivile Kids Grounded List
+#
+# Project home page:
+# https://github.com/beautivile/pihole-blocklists
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/beautivile/pihole-blocklists/main/my-blocked-domains.txt
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)

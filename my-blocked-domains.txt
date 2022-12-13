@@ -1,0 +1,22 @@
+# Beautivile Custom Block List
+#
+# Project home page:
+# https://github.com/beautivile/pihole-blocklists
+#
+# Fetch the latest version of this file:
+# UPDATE URL HERE
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+
+# Misc Ad/Forwarding URLs
+127.0.0.1 beliet.com
+
+# VPN Services
+127.0.0.1 linkverify.app
+
+# Gambling
+127.0.0.1 betus.com.pa
+127.0.0.1 oneclickstar.com
+127.0.0.1 bovada.lv
+127.0.0.1 americascardroom.au

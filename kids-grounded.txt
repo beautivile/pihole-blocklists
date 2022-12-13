@@ -10,9 +10,11 @@
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 
 # Online Games
-burritocraft.burritoedition.repl.co
+127.0.0.1 burritocraft.burritoedition.repl.co
 
 # Messenger Platforms
+127.0.0.1 discord.com
+127.0.0.1 discord.gg
 
 # Streaming Sites
 

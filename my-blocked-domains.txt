@@ -4,7 +4,7 @@
 # https://github.com/beautivile/pihole-blocklists
 #
 # Fetch the latest version of this file:
-# UPDATE URL HERE
+# https://raw.githubusercontent.com/beautivile/pihole-blocklists/main/my-blocked-domains.txt
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)

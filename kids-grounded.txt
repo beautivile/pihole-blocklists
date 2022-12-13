@@ -4,7 +4,7 @@
 # https://github.com/beautivile/pihole-blocklists
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/beautivile/pihole-blocklists/main/my-blocked-domains.txt
+# https://raw.githubusercontent.com/beautivile/pihole-blocklists/main/kids-grounded.txt
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
